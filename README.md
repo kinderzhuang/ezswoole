@@ -4,7 +4,7 @@
 
 # 安装
 ```sh
-composer require hanwenbo/ezswoole
+composer require kinderzhuang/ezswoole
 ```
 
 # TODO
