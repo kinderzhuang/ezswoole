@@ -16,7 +16,7 @@
   ],
   "require": {
     "php": ">=7.1",
-    "easyswoole/easyswoole": "3.3.4",
+    "easyswoole/easyswoole": "3.3.4"
   },
   "require-dev": {
     "easyswoole/swoole-ide-helper": "^1.2"
