@@ -1,0 +1,35 @@
+{
+  "name": "kinderzhuang/ezswoole",
+  "description": "ezswoole",
+  "type": "library",
+  "license": "Apache-2.0",
+  "authors": [
+    {
+      "name": "庄sir",
+      "email": "1013482804@qq.com"
+    }
+  ],
+  "keywords": [
+    "easyswoole",
+    "swoole",
+    "php"
+  ],
+  "require": {
+    "php": ">=7.1",
+    "easyswoole/easyswoole": "3.3.4",
+  },
+  "require-dev": {
+    "easyswoole/swoole-ide-helper": "^1.2"
+  },
+  "autoload": {
+    "psr-4": {
+      "ezswoole\\": "src/"
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://mirrors.aliyun.com/composer/"
+    }
+  }
+}
